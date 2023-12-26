@@ -1,0 +1,32 @@
+.comment-add {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .comment-input {
+    width: 100%;
+    padding: 8px;
+    color: black;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+  .comment{
+    color: black;
+  }
+  .sub {
+    background-color: rgb(136, 109, 3);
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .sub:hover {
+    background-color: #c2b184;
+  }
+  
