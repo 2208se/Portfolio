@@ -29,14 +29,14 @@ const Hero = () => {
             ></motion.h1>
               
               
-              Your  <br />
-              Lawyer
-              <br /> Space
+              Hello,   <br />
+              I am Selssabila
+              <br /> Kiouaz
             </motion.h1>
           </div>
           <div className="flexColStart secondaryText flexhero-des">
-            <span>Your Legally in Pursuit of Justice: Expert Guidance,</span>
-            <span> Compassionate Representation, and a Commitment to Your Rights</span>
+            <span>Web developer</span>
+            <span> UI/UX designer </span>
           </div>
 
           {/* <div className="flexCenter search-bar">
@@ -57,23 +57,23 @@ const Hero = () => {
           <div className="flexCenter stats">
             <div className="flexColCenter stat">
               <span>
-                <CountUp start={8800} end={9000} duration={4} /> <span>+</span>
+                <CountUp start={1} end={4} duration={4} /> <span>+</span>
               </span>
-              <span className="secondaryText">Winning case</span>
+              <span className="secondaryText">Experience years</span>
             </div>
 
             <div className="flexColCenter stat">
               <span>
-                <CountUp start={1950} end={2000} duration={4} /> <span>+</span>
+                <CountUp start={1} end={10} duration={4} /> <span>+</span>
               </span>
-              <span className="secondaryText">Satisfied Client </span>
+              <span className="secondaryText">Soft And hard skills </span>
             </div>
 
             <div className="flexColCenter stat">
               <span>
-                <CountUp end={28} /> <span>+</span>
+                <CountUp end={10} /> <span>+</span>
               </span>
-              <span className="secondaryText">Awards Winning</span>
+              <span className="secondaryText">Realized Projects</span>
             </div>
           </div>
         </div>
@@ -89,7 +89,7 @@ const Hero = () => {
             }}
             className="image-container"
           >
-            <img src="./p4.jpg" alt="houses" />
+            <img src="./p.jpg" alt="houses" />
           </motion.div>
         </div>
       </div>
